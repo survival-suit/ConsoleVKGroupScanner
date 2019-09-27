@@ -1,0 +1,11 @@
+C:\Users\survivalsuit\source\repos\ConsoleVKGroupScanner\ConsoleVKGroupScanner\bin\Debug\netcoreapp2.2\ConsoleVKGroupScanner.deps.json
+C:\Users\survivalsuit\source\repos\ConsoleVKGroupScanner\ConsoleVKGroupScanner\bin\Debug\netcoreapp2.2\ConsoleVKGroupScanner.runtimeconfig.json
+C:\Users\survivalsuit\source\repos\ConsoleVKGroupScanner\ConsoleVKGroupScanner\bin\Debug\netcoreapp2.2\ConsoleVKGroupScanner.runtimeconfig.dev.json
+C:\Users\survivalsuit\source\repos\ConsoleVKGroupScanner\ConsoleVKGroupScanner\bin\Debug\netcoreapp2.2\ConsoleVKGroupScanner.dll
+C:\Users\survivalsuit\source\repos\ConsoleVKGroupScanner\ConsoleVKGroupScanner\obj\Debug\netcoreapp2.2\ConsoleVKGroupScanner.csprojAssemblyReference.cache
+C:\Users\survivalsuit\source\repos\ConsoleVKGroupScanner\ConsoleVKGroupScanner\obj\Debug\netcoreapp2.2\ConsoleVKGroupScanner.csproj.CoreCompileInputs.cache
+C:\Users\survivalsuit\source\repos\ConsoleVKGroupScanner\ConsoleVKGroupScanner\obj\Debug\netcoreapp2.2\ConsoleVKGroupScanner.AssemblyInfoInputs.cache
+C:\Users\survivalsuit\source\repos\ConsoleVKGroupScanner\ConsoleVKGroupScanner\obj\Debug\netcoreapp2.2\ConsoleVKGroupScanner.AssemblyInfo.cs
+C:\Users\survivalsuit\source\repos\ConsoleVKGroupScanner\ConsoleVKGroupScanner\bin\Debug\netcoreapp2.2\ConsoleVKGroupScanner.pdb
+C:\Users\survivalsuit\source\repos\ConsoleVKGroupScanner\ConsoleVKGroupScanner\obj\Debug\netcoreapp2.2\ConsoleVKGroupScanner.dll
+C:\Users\survivalsuit\source\repos\ConsoleVKGroupScanner\ConsoleVKGroupScanner\obj\Debug\netcoreapp2.2\ConsoleVKGroupScanner.pdb

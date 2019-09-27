@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\survivalsuit\\source\\repos\\ConsoleVKGroupScanner\\ConsoleVKGroupScanner\\ConsoleVKGroupScanner.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\survivalsuit\\source\\repos\\ConsoleVKGroupScanner\\ConsoleVKGroupScanner\\ConsoleVKGroupScanner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\survivalsuit\\source\\repos\\ConsoleVKGroupScanner\\ConsoleVKGroupScanner\\ConsoleVKGroupScanner.csproj",
+        "projectName": "ConsoleVKGroupScanner",
+        "projectPath": "C:\\Users\\survivalsuit\\source\\repos\\ConsoleVKGroupScanner\\ConsoleVKGroupScanner\\ConsoleVKGroupScanner.csproj",
+        "packagesPath": "C:\\Users\\survivalsuit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\survivalsuit\\source\\repos\\ConsoleVKGroupScanner\\ConsoleVKGroupScanner\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\survivalsuit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[12.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "VkNet": {
+              "target": "Package",
+              "version": "[1.46.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
